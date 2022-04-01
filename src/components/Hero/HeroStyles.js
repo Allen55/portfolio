@@ -9,6 +9,7 @@ export const LeftSection = styled.div`
 
     margin: 0 auto;
   }
+  
   @media ${(props) => props.theme.breakpoints.md} {
     width: 100%;
     display: flex;
@@ -17,3 +18,6 @@ export const LeftSection = styled.div`
     margin: 0 auto;
   }
 `;
+export const SectionText = styled.div`
+    background-color: yellow;
+  `;

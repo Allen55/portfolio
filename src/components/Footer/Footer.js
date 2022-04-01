@@ -14,23 +14,23 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:allen@allenharperdev.com">
-            allen@allenharperdev.com
+          <LinkItem href="mailto:allen@harper-dev.com">
+          allen@harper-dev.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
+          <Slogan>Let's work together</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://github.com/Allen55" target="_blank">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://www.linkedin.com/in/allenharper5/" target="_blank">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://www.instagram.com/allenactual55/" target="_blank">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>

@@ -9,11 +9,11 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Hi <br />
-          I'm Allen
+          Hi, <br />
+          I'm Allen.
         </SectionTitle>
         <SectionText>
-        I'm a web and software developer.
+          I'm a web developer.
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
